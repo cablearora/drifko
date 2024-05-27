@@ -7,5 +7,4 @@ langchain-pinecone
 pinecone-client
 PyPDF2
 sentence-transformers
-torch
 transformers
